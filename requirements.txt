@@ -1,0 +1,4 @@
+# pinned, tested versions (Python 3.12 venv)
+yfinance==1.7.0
+pandas==3.0.6
+# news.py, calendar.py and discord_post.py use only the Python standard library.
